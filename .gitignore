@@ -1,0 +1,17 @@
+# Ignore the Conda environment folder
+/bagi-conda-env/
+
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Autogen Studio specific ignores (if any)
+
+# VS Code specific ignores
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
